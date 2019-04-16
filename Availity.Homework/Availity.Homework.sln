@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{8FFC3C81-B384-4CDC-8A5F-4F296FC37FFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Availity.Homework.CSVParser", "Availity.Homework.CSVParser\Availity.Homework.CSVParser.csproj", "{53C071EF-3CEE-4ACD-B0F8-47BD54642CDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{2E89F91C-4348-46F0-BC50-DAED98CD53C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Availity.Homework.Presentation", "Availity.Homework.Presentation\Availity.Homework.Presentation.csproj", "{FD77F049-34B6-47ED-AFEB-C4D90C03A2F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53C071EF-3CEE-4ACD-B0F8-47BD54642CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C071EF-3CEE-4ACD-B0F8-47BD54642CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C071EF-3CEE-4ACD-B0F8-47BD54642CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C071EF-3CEE-4ACD-B0F8-47BD54642CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD77F049-34B6-47ED-AFEB-C4D90C03A2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD77F049-34B6-47ED-AFEB-C4D90C03A2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD77F049-34B6-47ED-AFEB-C4D90C03A2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD77F049-34B6-47ED-AFEB-C4D90C03A2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{53C071EF-3CEE-4ACD-B0F8-47BD54642CDE} = {8FFC3C81-B384-4CDC-8A5F-4F296FC37FFF}
+		{FD77F049-34B6-47ED-AFEB-C4D90C03A2F5} = {2E89F91C-4348-46F0-BC50-DAED98CD53C1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC30A51-C181-4CFB-BEB2-02B44063907F}
+	EndGlobalSection
+EndGlobal

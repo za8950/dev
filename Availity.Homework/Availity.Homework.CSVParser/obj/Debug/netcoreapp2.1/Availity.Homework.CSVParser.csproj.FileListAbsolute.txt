@@ -1,0 +1,12 @@
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\bin\Debug\netcoreapp2.1\Availity.Homework.CSVParser.deps.json
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\bin\Debug\netcoreapp2.1\Availity.Homework.CSVParser.runtimeconfig.json
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\bin\Debug\netcoreapp2.1\Availity.Homework.CSVParser.runtimeconfig.dev.json
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\bin\Debug\netcoreapp2.1\Availity.Homework.CSVParser.dll
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\obj\Debug\netcoreapp2.1\Availity.Homework.CSVParser.csprojAssemblyReference.cache
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\obj\Debug\netcoreapp2.1\Availity.Homework.CSVParser.csproj.CoreCompileInputs.cache
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\obj\Debug\netcoreapp2.1\Availity.Homework.CSVParser.AssemblyInfoInputs.cache
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\obj\Debug\netcoreapp2.1\Availity.Homework.CSVParser.AssemblyInfo.cs
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\bin\Debug\netcoreapp2.1\Availity.Homework.CSVParser.pdb
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\obj\Debug\netcoreapp2.1\Availity.Homework.CSVParser.dll
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\obj\Debug\netcoreapp2.1\Availity.Homework.CSVParser.pdb
+C:\source\misc\availity-homework\Availity.Homework\Availity.Homework.CSVParser\bin\Debug\netcoreapp2.1\Import\enrollees.csv
